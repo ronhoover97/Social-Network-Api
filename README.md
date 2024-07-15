@@ -2,7 +2,7 @@
 
 ## Description
 
-An application that enables users to "Blog" about tech.
+Updated existing code that enables users to share posts and keep up with friends.
 
 ## Table of Contents
 
